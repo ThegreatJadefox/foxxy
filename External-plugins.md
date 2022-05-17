@@ -1,14 +1,4 @@
-<details>
-<summary>Mention audio</summary>
-<br>
-Link: https://gist.github.com/souravkl11/4c5c4474abf19f4f8bba23f2c1a7fb18
-<br>
-Usage: Sends random audios when mentioned sudo numbers
-</details>
-<details>
-<summary>Logo maker (50 +)</summary>
-<br>
-Link: https://gist.github.com/souravkl11/b8fb22602f4c9b9e2bf46763f33de67f/
-<br>
-Usage: Textmaker
-</details>
+### [Mention audio](https://gist.github.com/souravkl11/4c5c4474abf19f4f8bba23f2c1a7fb18)
+### [Text maker (50 +)](https://gist.github.com/souravkl11/b8fb22602f4c9b9e2bf46763f33de67f/)
+### [Forward](https://gist.github.com/souravkl11/4572ee07a2fd6862d22583a2562699e5/)
+### [Tag](https://gist.githubusercontent.com/souravkl11/4d7d0871061deba0af268eca17faee51/)
