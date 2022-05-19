@@ -40,3 +40,9 @@ _& : Adds one line break (enter key)_
 ### Mode 2 (With 1 call, 1 url and 3 reply buttons):
 > {pp} Hey {mention} Welcome to {group-name} & {group-desc} & {count}/257 members Joined in this group & Do you love me? #button\𝗬𝗘𝗦 ✅# #button\𝗡𝗢𝗣𝗘 ‼# #button\How r u?#  #cbutton\Contact owner# #num\+916282344739# #ubutton\Whatsapp# #url\https://wa.me/916282344739?text=Lub+U+Vro+😻#
 ## I hope you had understood anything that I said above!. Use your own logic and create more messages with your creativity. As I said above, you can use image links and {gicon} in button welcomes except video! You can set filters for replying to the buttons :)
+<br>
+
+# Bot info setup
+## As like in the previous version, I'm not providing single config variables for specific details. All details will be in one VAR
+### Format: Bot Name;Owner Name;Owner Number;Image link;Group link
+### Example: Raganork;Souravkl11;916282344739;https://i.imgur.com/st4R2dq.jpeg;https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb
