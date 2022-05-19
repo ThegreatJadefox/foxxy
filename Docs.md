@@ -50,3 +50,8 @@ _& : Adds one line break (enter key)_
 ## You can set and conduct polls in groups using the poll feature.
 ### Format: 
 ### .poll question/How are u,button/Fine or not fine,option/Fine,option/Not Fine
+
+# Antilink Warn
+## There was a feature for antilink in the previous version. And on this, I had made a change to this and can give warnings if participants sends links!
+### For this, simply set a var with group jids (type .jid) like, 
+### .setvar ANTILINK_WARN:JID,JID
