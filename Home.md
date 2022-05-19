@@ -1,2 +1,2 @@
 # Welcome to the raganork wiki!
-## Discover more
+## This is a second party user manual for maintaining your WhatsApp Bot! 
