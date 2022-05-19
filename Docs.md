@@ -43,8 +43,8 @@ _& : Adds one line break (enter key)_
 
 # Bot info setup
 ## As like in the previous version, I'm not providing single config variables for specific details. All details will be in one VAR
-### Format: Bot Name;Owner Name;Owner Number;Image link;Group link
-### Example: Raganork;Souravkl11;916282344739;https://i.imgur.com/st4R2dq.jpeg;https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb
+### Format: .setvar BOT_INFO:Bot Name;Owner Name;Owner Number;Image link;Group link
+### Example: .setvar BOT_INFO:Raganork;Souravkl11;916282344739;https://i.imgur.com/st4R2dq.jpeg;https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb
 
 # Poll setup
 ## You can set and conduct polls in groups using the poll feature.
