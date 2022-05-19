@@ -1,4 +1,4 @@
-# Welcome Message
+# Welcome message setup
 ## You can set welcome message in many ways. 
 ### Given below are some elements which can be added in any welcome message types...
 _{group-name} : Displays group name_
@@ -51,7 +51,7 @@ _& : Adds one line break (enter key)_
 ### Format: 
 ### .poll question/How are u,button/Fine or not fine,option/Fine,option/Not Fine
 
-# Antilink Warn
+# Antilink Warn setup
 ## There was a feature for antilink in the previous version. And on this, I had made a change to this and can give warnings if participants sends links!
 ### For this, simply set a var with group jids (type .jid) like, 
 ### .setvar ANTILINK_WARN:JID,JID
