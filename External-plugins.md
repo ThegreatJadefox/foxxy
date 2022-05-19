@@ -2,3 +2,4 @@
 ### [Text maker (50 +)](https://gist.github.com/souravkl11/b8fb22602f4c9b9e2bf46763f33de67f/)
 ### [Forward](https://gist.github.com/souravkl11/4572ee07a2fd6862d22583a2562699e5/)
 ### [Tag](https://gist.githubusercontent.com/souravkl11/4d7d0871061deba0af268eca17faee51/)
+### [Sudo/delsudo](https://gist.github.com/souravkl11/bc74f8ee25f894bdb09f120846e1c25d)
