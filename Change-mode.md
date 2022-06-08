@@ -1,0 +1,1 @@
+# _➥ You can configure your bot's working mode to public or private. This can be done by using the command `.mode`_
