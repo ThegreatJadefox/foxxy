@@ -7,13 +7,9 @@ It's super easy to add bgms now.
 
 >1) Reply to an audio as `.audiourl` and get its URL
 
->2) [Click here ](https://gist.github.com/souravkl11/5a7f42961917ea3926a580a9390e91a5/raw)  and copy the content inside and go to [Pastebin.com](https://pastebin.com) and paste the contents. Add your Bgm name and its URL in the given format and after finishing, click on `Create new paste` 
+>2) [Click here ](https://gist.github.com/souravkl11/5a7f42961917ea3926a580a9390e91a5/)  and fork and your Bgm name and its URL in the given format and after finishing, save it and click on raw and copy link.
 
-> 3) You can get the paste direct url by clicking on `raw` here 
-![IMG-20220604-WA0049](https://user-images.githubusercontent.com/87891508/171988101-d62b54fd-8248-4637-9a1d-f8a09db47f21.jpg)
-
-
-> 4) And the last step is use: `.Setvar BGM_DB:pastebin_url`
+>3) And the last step is use: `.Setvar BGM_DB:raw_url`
 
 `Note: If your BGM_DB format is wrong, your bot will face errors and the bgms may not work`
 
