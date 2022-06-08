@@ -1,17 +1,3 @@
-# How to set up BGM BOT?
-# [Watch Tutorial Video!](https://drive.google.com/file/d/130EHMU3KQRAFN_4iF2rdBHaCM8SP6Zzr/view?usp=drivesdk)
-> Copy the [plugin url](https://gist.github.com/souravkl11/7cf9dcc3f5e210e6a718ce6af1096f18) and install using .install url
-
-# How to Add Bgms?
-It's super easy to add bgms now. 
-
->1) Reply to an audio as `.audiourl` and get its URL
-
->2) [Click here ](https://gist.github.com/souravkl11/5a7f42961917ea3926a580a9390e91a5/)  and fork and your Bgm name and its URL in the given format and after finishing, save it and click on raw and copy link.
-
->3) And the last step is use: `.Setvar BGM_DB:raw_url`
-
-`Note: If your BGM_DB format is wrong, your bot will face errors and the bgms may not work`
 
 # Welcome message setup
 ## You can set welcome message in many ways. 
@@ -57,18 +43,3 @@ _& : Adds one line break (enter key)_
 ### Mode 2 (With 1 call, 1 url and 3 reply buttons):
 > {pp} Hey {mention} Welcome to {group-name} & {group-desc} & {count}/257 members Joined in this group & Do you love me? #button\𝗬𝗘𝗦 ✅# #button\𝗡𝗢𝗣𝗘 ‼# #button\How r u?#  #cbutton\Contact owner# #num\+916282344739# #ubutton\Whatsapp##footer\Server status: OK##url\https://wa.me/916282344739?text=Lub+U+Vro+😻#
 ## I hope you had understood anything that I said above!. Use your own logic and create more messages with your creativity. As I said above, you can use image links and {gicon} in button welcomes except video! You can set filters for replying to the buttons :)
-
-# Bot info setup
-## As like in the previous version, I'm not providing single config variables for specific details. All details will be in one VAR
-### Format: .setvar BOT_INFO:Bot Name;Owner Name;Owner Number;Image link;Group link
-### Example: .setvar BOT_INFO:Raganork;Souravkl11;916282344739;https://i.imgur.com/st4R2dq.jpeg;https://chat.whatsapp.com/Dt3C4wrQmt0GG6io1IBIHb
-
-# Poll setup
-## You can set and conduct polls in groups using the poll feature.
-### Format: 
-### .poll question/How are u,button/Fine or not fine,option/Fine,option/Not Fine
-
-# Antilink Warn setup
-## There was a feature for antilink in the previous version. And on this, I had made a change to this and can give warnings if participants sends links!
-### For this, simply set a var with group jids (type .jid) like, 
-### .setvar ANTILINK_WARN:JID,JID
