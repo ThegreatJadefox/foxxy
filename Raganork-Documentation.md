@@ -1,5 +1,5 @@
 # _➥ Welcome to the Raganork Documentation_
-## How to set up:
+## _• How to set up:_
 ### _➥ [Deploy](https://github.com/souravkl11/raganork-md/wiki/Deploy)_
 ### _➥ [Welcome message](https://github.com/souravkl11/raganork-md/wiki/Welcome)_
 ### _➥ [Automute/Autounmute](https://github.com/souravkl11/raganork-md/wiki/Automute)_
