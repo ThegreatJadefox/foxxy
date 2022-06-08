@@ -1,4 +1,6 @@
-# Welcome to the raganork wiki!
-## This is a second party user manual for maintaining your WhatsApp Bot! 
-### For User Manual, [click here](https://github.com/souravkl11/raganork-md/wiki/Docs)
-### For External plugins, [click here](https://github.com/souravkl11/raganork-md/wiki/External-plugins)
+# _➥ Welcome to the Raganork Documentation_
+## How to set up:
+### _➥ [Welcome Message](https://github.com/souravkl11/raganork-md/wiki/Welcome)_
+### _➥ [External plugins](https://github.com/souravkl11/raganork-md/wiki/External-plugins)_
+### _➥ [Antifake](https://github.com/souravkl11/raganork-md/wiki/Antifake)_
+### _➥ [External plugins](https://github.com/souravkl11/raganork-md/wiki/External-plugins)_
