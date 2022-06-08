@@ -5,6 +5,7 @@
 ### _➥ [Automute/Autounmute](https://github.com/souravkl11/raganork-md/wiki/Automute)_
 ### _➥ [Antifake](https://github.com/souravkl11/raganork-md/wiki/Antifake)_
 ### _➥ [Alive message](https://github.com/souravkl11/raganork-md/wiki/alive)_
+### _➥ [Poll](https://github.com/souravkl11/raganork-md/wiki/poll)_
 ### _➥ [Change mode (public/private)](https://github.com/souravkl11/raganork-md/wiki/Change-mode)_
 ### _➥ [Change language](https://github.com/souravkl11/raganork-md/wiki/Change-Language)_
 ### _➥ [Bot name etc.](https://github.com/souravkl11/raganork-md/wiki/bot-info)_
