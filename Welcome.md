@@ -1,7 +1,7 @@
 
-# Welcome message setup
-## You can set welcome message in many ways. 
-### Given below are some elements which can be added in any welcome message types...
+# _➥ Welcome message setup_
+## _• You can set welcome message in many ways._
+### _~ Given below are some elements which can be added in any welcome message types._
 _{group-name} : Displays group name_
 <br>
 _{group-desc} : Displays group description_
@@ -12,8 +12,8 @@ _{mention} : Mentions the person joined_
 <br>
 _& : Adds one line break (enter key)_
 <br>
-## Types of normal welcome message
-### Welcome message with custom image
+## _➥ Types of normal welcome message_
+### • Welcome message with custom image
 * Add a image link such as https://i.imgur.com/st4R2dq.jpeg in welcome message to display the custom image. Example:
 > .Welcome https://i.imgur.com/st4R2dq.jpeg Hey {mention}, welcome to {group-name}
 ### Welcome message with custom video
