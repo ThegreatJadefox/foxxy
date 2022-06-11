@@ -8,6 +8,6 @@
 ### _➥ [Poll](https://github.com/souravkl11/raganork-md/wiki/poll)_
 ### _➥ [Change mode (public/private)](https://github.com/souravkl11/raganork-md/wiki/Change-mode)_
 ### _➥ [Change language](https://github.com/souravkl11/raganork-md/wiki/Change-Language)_
-### _➥ [Bot name etc.](https://github.com/souravkl11/raganork-md/wiki/bot-info)_
+### _➥ [Change Menu Bot name etc.](https://github.com/souravkl11/raganork-md/wiki/bot-info)_
 ### _➥ [Bgm](https://github.com/souravkl11/raganork-md/wiki/bgm)_
 ### _➥ [External plugins](https://github.com/souravkl11/raganork-md/wiki/External-plugins)_
