@@ -1,2 +1,2 @@
 # _➥ How to change/set alive message?_
-## _You can set the alive message by using the command `.setvar ALIVE`. You can also add buttons or even simple text message, or image by using the same format which we used for [Welcome](https://github.com/souravkl11/raganork-md/wiki/Welcome)_
+## _You can set the alive message by using the command `.setvar ALIVE`. You can also add buttons or even simple text message, or image by using the same format which we used for [Welcome](https://github.com/souravkl11/raganork-md/wiki/Welcome)_. As extra, you can also add `{uptime}` `{sender}` and `{quote}` elements in alive message.
