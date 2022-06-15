@@ -5,3 +5,4 @@
 ### _➥ [Sudo/delsudo](https://gist.github.com/souravkl11/bc74f8ee25f894bdb09f120846e1c25d)_
 ### _➥ [Admin Pack - Admins can use admin commands without sudo](https://gist.github.com/souravkl11/06ed66a2cacdd53f09465d7babc65f4e)_
 ### _➥ [Joke (Malayalam)](https://gist.github.com/souravkl11/971495b95971d76947e8cec73fbaad66)_
+### _➥ [Reverse](https://gist.github.com/souravkl11/ac2a8af711cbc8c1403460411bec8d58)_
